@@ -7,6 +7,7 @@ import {
 } from "react";
 
 // const BASE_URL = "http://localhost:9000";
+const BASE_URL = "https://cities-kllv.onrender.com"
 
 const CitiesContext = createContext();
 
